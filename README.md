@@ -8,6 +8,6 @@
   <br><br>
 Welcome, visitor number: <br><br>
    <a href="https://shinminase.neocities.org/">
-    <a href="https://whereis-mypizza.tumblr.com/post/668749932706119680"><img src="https://profile-counter.glitch.me/{gutsnroses}/count.svg"></a>
+    <img src="https://profile-counter.glitch.me/{gutsnroses}/count.svg">
   </a>
 </p>
