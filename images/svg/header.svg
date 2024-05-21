@@ -195,7 +195,7 @@ g.typingUnderline rect {
   <animate attributeName="d" from="m38,-6 h0" to="m38,-6 h100" dur="9.4s" begin="0s" fill="freeze"/>
 </path>
 
-<text font-family="Courier New" font-size=".22em" fill="white"
+<text font-family="Courier New" font-size=".22em" fill="black"
       font-weight="bold" letter-spacing="2">
   <textPath xlink:href="#nameTyping" >
     WILSON GRAHAM
@@ -203,7 +203,7 @@ g.typingUnderline rect {
 </text>
 
 <g class="typingUnderline">
-  <rect fill="#FFFFFF" x="69" y="20.5" width="2.5" height="0.4" xlink:href="#underlineTyping">
+  <rect fill="#FFFFFF" x="64" y="20.5" width="2.5" height="0.4" xlink:href="#underlineTyping">
       <animate attributeName="visible" from="hidden" to="visible" dur="1s" fill="freeze"/>
   </rect>
 </g>
